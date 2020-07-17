@@ -1,0 +1,3 @@
+To run:
+
+python3 streamer DB-NAME KEYWORD1 KEYWORD2 ...
