@@ -86,10 +86,10 @@ if __name__ == '__main__':
 
     
     try: 
-        access_token = "37945531-lYM0BRcZrmf956pIk6OBETm7GPpz3D4OnAcwXT90k"
-        access_token_secret = "eA8Od3csMSjUsbLTmFWCp9mCF6r9ue3v2aS37vpGmkgYt"
-        consumer_key = "xG6v3KXx3LUNU5NZsrjhU2RU4"
-        consumer_secret = "TSpJO70kyMfI7zER4svNk0eV9HzmEzCuyVoj6hYDMhKhmk4Tn5"
+        access_token = 
+        access_token_secret = 
+        consumer_key = 
+        consumer_secret = 
 
         auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
         auth.set_access_token(access_token, access_token_secret)
